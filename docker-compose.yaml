@@ -1,5 +1,5 @@
 services:
-  40ktev0:
+  coolki:
     build: .
     shm_size: 2.6gb
     ports:
